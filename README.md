@@ -1,6 +1,13 @@
 # Digital-Image-Processing-in-Python
 Digital Image Processing Techniques and Simple codes using Python (OpenCV).
 ## Topics Covered
+### Lab 2
+* Reading and Writing images in python 
+* Histogram of images 
+* Image enhancement techniques 
+* Thresholding 
+* Flipping images 
+* Blurring and deblurring of images
 ### Lab 3
 * Read Image
 * Crop Image
