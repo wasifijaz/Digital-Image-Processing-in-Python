@@ -1,6 +1,14 @@
 # Digital-Image-Processing-in-Python
 Digital Image Processing Techniques and Simple codes using Python (OpenCV).
 ## Topics Covered
+### Lab 3
+* Read Image
+* Crop Image
+* Resize Image
+* Rotate Image
+* Draw Circle on Image
+* Draw Rectangle on Image
+* Write Text on Image
 ### Lab 4
 * Image Bit Slicing
 * Image Pyramid
